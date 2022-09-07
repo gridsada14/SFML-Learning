@@ -1,0 +1,6 @@
+﻿  Game.cpp
+D:\Coding\Games Dev\SFML_Learning\SFML_Learning\SFML_Learning\Game.cpp(190,30): warning C4018: '<': signed/unsigned mismatch
+D:\Coding\Games Dev\SFML_Learning\SFML_Learning\SFML_Learning\Game.cpp(203,23): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  SFML_Learning.vcxproj -> D:\Coding\Games Dev\SFML_Learning\SFML_Learning\Debug\SFML_Learning.exe

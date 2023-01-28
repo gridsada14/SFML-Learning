@@ -129,7 +129,6 @@
 	- Trick 
 		- rand() % 100 + 1 = random 1 - 100
 
-## Game 3 :
 	
 
 	
